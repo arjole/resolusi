@@ -1,7 +1,7 @@
 Rencana belajar:
 - Centos 8
 - Git dan Github
-    -Github dulu baru git
+  - Github dulu baru git
 - Postgresql 12
 - Python 3
 - Jupyter lab newer
