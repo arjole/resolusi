@@ -5,3 +5,4 @@ Rencana belajar:
 - Python 3
 - Jupyter lab newer
 - django newer
+- Web interface
