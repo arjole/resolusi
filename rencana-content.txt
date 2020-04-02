@@ -3,5 +3,5 @@ Rencana belajar:
 - Git dan Github
 - Postgresql 12
 - Python 3
-- Jupyter lab new
-- django new
+- Jupyter lab newer
+- django newer
