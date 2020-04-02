@@ -1,0 +1,7 @@
+Rencana belajar:
+- Centos 8
+- Git dan Github
+- Postgresql 12
+- Python 3
+- Jupyter lab new
+- django new
